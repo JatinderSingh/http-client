@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>singh.jatinder</groupId>
   <artifactId>http-client</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>http-client</name>
   <description>Simple non blocking client</description>
   <repositories>
